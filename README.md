@@ -1,7 +1,7 @@
 
 # ProyectosconLaravel
 
-## Instalar los siguientes programas para correr los proyectos##
+## Instalar los siguientes programas para correr los proyectos
 1)  Xampp
 2)  php (en este caso estoy usando php 7.3.29)
 3)  composer (en este caso estoy usando 2.1.5)
