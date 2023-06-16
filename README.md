@@ -4,7 +4,7 @@
 ## Instalar los siguientes programas para correr los proyectos
 
 1)  Xampp -> Instalar el programa desde este link https://www.apachefriends.org/es/index.html
-3)  php (en este caso estoy usando php 7.3.29)  si instalaste xaamp se instala con Xampp  
+3)  php (en este caso estoy usando php 7.3.29)  si instalaste xaamp se instala automaticamente 
 4)  composer (en este caso estoy usando 2.1.5) desde este link https://getcomposer.org/download/
 5) Laravel(en este caso estoy usando 4.2.7)
 
