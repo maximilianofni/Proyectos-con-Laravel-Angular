@@ -1,5 +1,5 @@
 
-# ProyectosconLaravel
+## Proyecto utilizando LARAVEL para el **backend** y ANGULAR para el **frontend**
 
 ## Instalar los siguientes programas para correr los proyectos
 
