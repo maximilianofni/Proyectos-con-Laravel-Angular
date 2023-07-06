@@ -25,8 +25,25 @@
 
 # Para crear un proyecto con ANGULAR, hay que tener instalado 
  
-1) Node.js -> para instalar node , podes instalarlo desde el sitio oficial https://nodejs.org y descargar la versión LTS (Long Term Support) para tu sistema operativo , despues instalarlo y luego para comprobar si se ha instalado correctamente en la consola de cmd ejecutarlo el comando " node -v ".
-2) ejecutar el comando : " npm install -g @angular/cli " para instalar Angular
-3) En la carpeta de tu proyecto laravel  ejecutar el comando : "ng new nombre-del-proyecto" , esto creara un nuevo proyecto en angular.
-4) Una vez que se haya creado el proyecto de Angular, puedes ejecutarlo localmente, yendo a la carpeta del proyecto angular ejecutando el comando: " cd nombre-del-proyecto" y por ultimo ejecutar el siguiente comando para iniciar el servidor de desarrollo de Angular:
-" ng serve" , Esto iniciará el servidor de desarrollo y podrás ver tu proyecto de Angular en el navegador ingresando a http://localhost:4200.
+1) Node.js -> para instalar node , podes instalarlo desde el sitio oficial https://nodejs.org y descargar la versión LTS (Long Term Support) para tu sistema operativo , despues instalarlo y luego para comprobar si se ha instalado correctamente en la consola de cmd ejecutarlo el comando:
+
+-  " node -v ".
+  
+2) Ejecutar el comando :
+
+-  npm install -g @angular/cli  para instalar Angular .
+
+3) En la carpeta de tu proyecto laravel  ejecutar el comando :
+
+- **"ng new nombre-del-proyecto"** , esto creara un nuevo proyecto en angular.
+
+4) Una vez que se haya creado el proyecto de Angular, puedes ejecutarlo localmente, yendo a la carpeta del proyecto angular ejecutando el comando:
+ 
+- **cd nombre-del-proyecto**  y por ultimo ejecutar el siguiente comando para iniciar el servidor de desarrollo de Angular:
+ 
+- **"ng serve"**,
+
+ Esto iniciará el servidor de desarrollo y podrás ver tu proyecto de Angular en el navegador ingresando a http://localhost:4200.
+
+ ![cmd_My0zhW1i1x](https://github.com/maximilianofni/Proyectos-con-Laravel-Angular/assets/17895688/2d999347-386e-4ead-b061-116a700dfd5b)
+
