@@ -17,9 +17,16 @@
 # composer create--proyect --prefer-dist laravel/laravel (nombre del proyecto)
 ![chrome_y0W7wZyUie](https://user-images.githubusercontent.com/17895688/129988660-5b9c2739-541e-48cc-9932-55c948e27f8f.png)
 
-## Por ultimo ejecutar el comando 
+## Por ultimo ejecutar el proyecto creado en laravel ejecutar en siguiente comando: 
 
 # php artisan serve
 
 ![mintty_kH5W9MiHeH](https://user-images.githubusercontent.com/17895688/129988929-8a5349d0-9e83-4f98-92aa-a35a33570c2c.png)
 
+# Para crear un proyecto con ANGULAR, hay que tener instalado 
+ 
+1) Node.js -> para instalar node , podes instalarlo desde el sitio oficial https://nodejs.org y descargar la versión LTS (Long Term Support) para tu sistema operativo , despues instalarlo y luego para comprobar si se ha instalado correctamente en la consola de cmd ejecutarlo el comando " node -v ".
+2) ejecutar el comando : " npm install -g @angular/cli " para instalar Angular
+3) En la carpeta de tu proyecto laravel  ejecutar el comando : "ng new nombre-del-proyecto" , esto creara un nuevo proyecto en angular.
+4) Una vez que se haya creado el proyecto de Angular, puedes ejecutarlo localmente, yendo a la carpeta del proyecto angular ejecutando el comando: " cd nombre-del-proyecto" y por ultimo ejecutar el siguiente comando para iniciar el servidor de desarrollo de Angular:
+" ng serve" , Esto iniciará el servidor de desarrollo y podrás ver tu proyecto de Angular en el navegador ingresando a http://localhost:4200.
